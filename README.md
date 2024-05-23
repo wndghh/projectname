@@ -19,7 +19,7 @@ Include some badges such as build status, test coverage, etc.
 &nbsp;&nbsp;&nbsp;&nbsp;⦁ Feature 3
 
 ---
-## Installation
+### Installation
 
     git clone https://github.com/username.projectname.git
     cd projectname
